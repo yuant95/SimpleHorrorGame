@@ -6,8 +6,8 @@ This app is a fun side project I built within 3 days, as a learning process.
 ---
 # Screenshots
 
-![](Screenshots/beginning.PNG)
-![](Screenshots/game.PNG)
-![](Screenshots/monsterTime.PNG)
+![](ScreenShots/beginning.PNG)
+![](ScreenShots/game.PNG)
+![](ScreenShots/monsterTime.PNG)
 
 
